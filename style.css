@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-image: url(./thumb-1920-656029.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#main-form {
+  margin-top: 15px;
+  width: 430px;
+  margin-left: 30px;
+}
+
+#content {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  color: black;
+  width: 600px;
+  border-radius: 30px;
+  height: 850px;
+}
